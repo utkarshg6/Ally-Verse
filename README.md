@@ -1,7 +1,7 @@
 # Ally-Verse
 This repository is for the Smart India Hackathon 2018.
 We are developing for the Project #ISR4 (Enable Customized Animation over the Internet) for the Department of Space (ISRO).
-This repository is run by the 6 First Year Students of Shri Mata Vaisho Devi University.
+This repository is run by the 6 First Year Students of Shri Mata Vaishno Devi University.
 The Members are as follows :-
 1) Utkarsh Gupta                 -  17bcs058@smvdu.ac.in
 2) Shoaib Ahmed                  -  17bcs052@smvdu.ac.in
