@@ -2,8 +2,9 @@
 This repository is for the Smart India Hackathon 2018.
 We are developing for the Project #MSD4 (Skill India App) for the Ministry of Skill Development & Entrepreneurship.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 The Problem Statement is as follows :
+
 This will be a mammoth task to perform but if we are able to do it, we would be able to work effectively. Integrating everything into one single app i.e. Skill India App. It should include all the details like 
 1. Enroll yourself for PMKVY 
 2. Become an NSDC training partner 
@@ -15,7 +16,6 @@ This will be a mammoth task to perform but if we are able to do it, we would be 
 8. Tenders or RFPs 
 9. Skill GAP Study 10. Report issues regarding a training institute Etc. 
 If we can integrate and create a product which becomes our ‘ONE STOP SOLUTION’, it would be an effective way of dissemination knowledge.
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 This repository is run by the 6 First Year Students of Shri Mata Vaishno Devi University.
 The Members are as follows :-
