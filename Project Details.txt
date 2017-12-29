@@ -1,5 +1,6 @@
-Department - Department of Space (ISRO)
-Project Code - #ISR4
-Project Name - Enable Customized Animation Over The Internet
+Department - Ministry of Skill Development & Entrepreneurship
+Project Code - #MSD4
+Project Name - Skill India App
+Total Submissions - 21 (As of 29/12/2017)
 End Date - 31/12/2017
 
